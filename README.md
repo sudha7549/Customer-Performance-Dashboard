@@ -30,8 +30,6 @@ The Power BI dashboard includes interactive visuals and dynamic metrics such as:
 |------------------------------|----------------------------------------|
 | `Customer_Performance.pbix`  | Main Power BI Dashboard file           |
 | `Customer_Data.xlsx`         | Source Excel data for practice         |
-| `Sample_Visuals_1.png`       | Sample chart image from dashboard      |
-| `Sample_Visuals_2.png`       | Another visual snapshot (caption-wise) |
 
 ## 🛠️ Tools & Skills Used
 
@@ -42,11 +40,11 @@ The Power BI dashboard includes interactive visuals and dynamic metrics such as:
 
 ## 📽️ Video Walkthrough
 
-Check out the full video demo here: https://www.linkedin.com/posts/sudhanshu-kumar-714b72296_powerbi-dashboarddesign-dataanalytics-activity-7336274223994155010-3W-G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEe4LIABj2nCyO9IAZ7JuvcSqUXezwbGT-E
+Check out the full video demo here: ➡️ https://www.linkedin.com/posts/sudhanshu-kumar-714b72296_powerbi-dashboarddesign-dataanalytics-activity-7336274223994155010-3W-G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEe4LIABj2nCyO9IAZ7JuvcSqUXezwbGT-E
 
 ## 📬 Contact
 
-Feel free to connect with me on [[LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/sudhanshu-kumar-714b72296/)) for feedback or collaboration!
+Feel free to connect with me on ➡️ https://www.linkedin.com/in/sudhanshu-kumar-714b72296/ for feedback or collaboration!
 
 ---
 
